@@ -1,13 +1,13 @@
 # SSSDNSY
 
 
-I'm a self-taught passionate BackEnd developer from China 🇨🇳
+I'm a self-taught passionate BackEnd developer from Changsha in China 
 
 **About me**
 
 - 💼 BackEnd Engineer 
 
-- ❤️ I love writing Java and building fun server applicationes
+- ❤️ I love writing Java and building fun server applicationes, and pleasure contribute to open source project
 
 - 💬 Ask me about anything [here](https://github.com/SSSDNSY)
 
